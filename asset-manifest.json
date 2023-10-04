@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%20DICTIONARY-APP/static/css/main.190cc388.css",
-    "main.js": "/%20DICTIONARY-APP/static/js/main.7d4f8b83.js",
-    "index.html": "/%20DICTIONARY-APP/index.html",
-    "main.190cc388.css.map": "/%20DICTIONARY-APP/static/css/main.190cc388.css.map",
-    "main.7d4f8b83.js.map": "/%20DICTIONARY-APP/static/js/main.7d4f8b83.js.map"
+    "main.css": "/DICTIONARY-APP/static/css/main.190cc388.css",
+    "main.js": "/DICTIONARY-APP/static/js/main.7d4f8b83.js",
+    "index.html": "/DICTIONARY-APP/index.html",
+    "main.190cc388.css.map": "/DICTIONARY-APP/static/css/main.190cc388.css.map",
+    "main.7d4f8b83.js.map": "/DICTIONARY-APP/static/js/main.7d4f8b83.js.map"
   },
   "entrypoints": [
     "static/css/main.190cc388.css",
